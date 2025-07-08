@@ -1,4 +1,4 @@
-# SimplyCooking
+# Simply Cooking: Recipe Recommendation App
 
 Team Members: Pascal Reich, Tammy Dahl, Jordan Isaiah Espiritu, Evan Tardiff, Dylan Murphy, Jwann Sy
 
