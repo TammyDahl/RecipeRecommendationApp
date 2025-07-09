@@ -1,11 +1,13 @@
 # Simply Cooking: Recipe Recommendation App
+Collaborative Project | SDSU CS 549 – Artificial Intelligence
 
 Team Members: Pascal Reich, Tammy Dahl, Jordan Isaiah Espiritu, Evan Tardiff, Dylan Murphy, Jwann Sy
 
 ## Description
 
-Our AI Project is an AI Generated Recommendations for Recipes. Its purpose is to provide a program that can suggests recipes for users based on the ingredients or the type of recipe that is being searched. Based on the selections, the program will
-use AI algorithms, such as Word2Vec, K-Mean Clusters, and Cosine Similarity to compare similarity with other recipes and provide more personalized suggestions
+This group project was developed for SDSU’s Artificial Intelligence course and focused on building a recipe recommendation system that provides users with personalized meal suggestions based on selected ingredients or search preferences. Our team used structured recipe and ingredient data, applied Word2Vec to generate semantic vector embeddings, and implemented K-Means clustering and Cosine Similarity to identify relevant recipe matches.
+
+Beyond model implementation, we focused on improving user experience through relevant and interpretable suggestions—translating raw data into insights that support personalized decision-making. This project demonstrates experience working with real-world data, applying unsupervised learning techniques, and designing data-driven systems that align closely with user needs—skills that directly support data analytics, customer insights, and product-facing data roles.
 
 ## Installation
 
